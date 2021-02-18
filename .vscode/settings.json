@@ -1,0 +1,10 @@
+{
+   "editor.minimap.renderCharacters": false,
+   "[git-rebase]": {
+
+      "workbench.editor.restoreViewState": false
+   },
+   "terminal.explorerKind": "external",
+   "terminal.integrated.allowMnemonics": true,
+   "terminal.integrated.automationShell.linux": ""
+}
